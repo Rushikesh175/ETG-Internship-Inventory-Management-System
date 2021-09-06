@@ -7,6 +7,7 @@ One of the major issue for small scale shopkeepers is to keep track of their inv
 ## Introduction:
 I have created an Inventory Management System to manage the goods for a small scale shops using the power of python and json.
 This will save a lot of time and efforts of the shopkeepers and facillitate them in the tedious task of managing inventory and sales.
+
 The project is a inventory management system. I have divided it in four parts.
 
 The First part contains a nested dictionary of 50 products with product id as the key and other details like product name, price, expiry date, quantity and category as value of each key.Then the dictionary is converted to json file.
