@@ -1,6 +1,9 @@
 # ETG-Internship-Inventory-Management-System
 **Creator:** K RUSHIKESH REDDY
 
+Repo created to submit 'Inventory Management System' assignment/mini project code to Mr. Ashish Jangra of ETG [Elite Techno Groups].
+Project part of ETG Python ML & AI Internship.
+
 ## Problem:
 One of the major issue for small scale shopkeepers is to keep track of their inventory and sales. Most oftenly they spend a lot of time and efforts to manage their inventory as well as keep record of their sales. 
 
